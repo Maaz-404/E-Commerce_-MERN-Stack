@@ -1,0 +1,11 @@
+1- Migrate this project to work with Mysql database driver
+2- Dockerize this project
+3- Security including forms for XSS & db_injections' prevention
+4- Migrate to graphql schema on a new Branch
+----------------------------------------------------------------------
+
+Current Tasks: 
+
+1- Add Authentication for the admin products panel.
+
+--> Update git repo continuously along with the changes to save them 
